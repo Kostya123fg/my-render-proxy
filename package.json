@@ -1,1 +1,23 @@
-Buffer.from('user:password')
+{
+
+ "name": "render-proxy",
+
+ "version": "1.0.0",
+
+ "description": "Simple HTTP-Proxy",
+
+ "main": "server.js",
+
+ "scripts": {
+
+  "start": "node server.js"
+
+ },
+
+ "dependencies": {
+
+  "http-proxy": "^1.18.1"
+
+ }
+
+}
